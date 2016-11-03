@@ -1,0 +1,39 @@
+.first {
+    border: 2px solid yellow ;
+    width: 200px;
+    display: block;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    }
+
+.second {
+    border: 2px solid yellow ;
+    width: 200px;
+    display: block;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    
+     }
+#uno{
+    text-align: center;
+    font-size: 12px;
+    padding-left:20px ;
+    padding-right: 20px;
+    padding-bottom:30px ;
+    padding-top:30px ;
+        
+}
+#dos{
+    text-align: left;
+    font-size: 12px;
+    padding-left:20px ;
+    padding-right: 20px;
+    padding-bottom:30px ;
+    padding-top:30px ;
+        
+    
+}
