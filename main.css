@@ -1,21 +1,22 @@
 .first {
-    border: 2px solid yellow ;
-    width: 200px;
-    display: block;
-    padding-left: 10px;
-    padding-right: 10px;
-    margin-top: 5px;
-    margin-bottom: 10px;
+     border: 20px solid yellow ;
+     width: 200px;
+     display: block;
+     padding-left: 10px;
+     padding-right: 10px;
+     margin-top: 5px;
+     margin-bottom: 10px;
     }
 
 .second {
-    border: 2px solid yellow ;
+    border: 20px solid yellow ;
     width: 200px;
     display: block;
     padding-left: 10px;
     padding-right: 10px;
     margin-top: 5px;
     margin-bottom: 10px;
+    margin: auto;
     
      }
 #uno{
